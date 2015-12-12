@@ -467,10 +467,11 @@ pre, code { /* monospace font for both code blocks and inline code */
 }
 
 pre { /* code blocks */
+  width: 100%;
   font-size: 0.9em;
   line-height: 120%;
   margin: 10px;
-  overflow-x: auto;
+  overflow-x: scroll;
 }
 
 code { /* inline code */
