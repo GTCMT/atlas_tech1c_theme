@@ -366,8 +366,8 @@ table p { /* table body text */
 }
 
 td pre.programlisting, td pre.screen, td pre.literallayout, td code { /* allow code in tables to wrap */
-  white-space: pre-wrap;
-  word-wrap: break-word;
+/*  white-space: pre-wrap;
+  word-wrap: break-word;*/
 }
 
 /* figures */
